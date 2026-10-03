@@ -159,6 +159,8 @@
 8. 统一结尾：real smartphone photo, user-generated buyer show, same scene series, natural ambient light, handheld composition, realistic scale, product accurate, no poster design, no watermark, --ar 【按输入区画幅比例填写，默认 3:4】
 ```
 
+说明：`--ar` 参数适用于 Midjourney 系工具，Gemini 可作尾部参数弱解析；即梦、可灵等工具请在生成界面直接选择画幅比例。
+
 ## 第二步：批量生成同场景买家秀图片
 
 ### 同一个产品批量生成相同场景图组
